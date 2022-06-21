@@ -1,1 +1,1 @@
-npm install -g parcel-bundler
+sudo npm install -g parcel-bundler
